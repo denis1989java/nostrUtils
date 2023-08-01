@@ -1,0 +1,1 @@
+com.nostr.band
